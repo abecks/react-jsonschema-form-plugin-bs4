@@ -1,0 +1,15 @@
+{
+	"name": "react-jsonschema-form-plugin-bs4",
+	"version": "0.0.1",
+	"description": "Bootstrap 4 markup for react-jsonschema-form",
+	"main": "src/Form.jsx",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Andrew Becker <abecks@gmail.com>",
+	"keywords": ["react", "form", "json-schema", "bootstrap"],
+	"license": "MIT",
+	"dependencies": {
+		"react-jsonschema-form": "^1.0.2"
+	}
+}
